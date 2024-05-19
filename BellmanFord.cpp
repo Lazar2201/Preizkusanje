@@ -72,7 +72,7 @@ int BF::printAttribute(int node_num)
         return -1;
     else if (!paths.size())
         return -1;
-    cout << "Cena poti: " << paths[node_num].distance << endl;
+    cout << "Cena potiiii: " << paths[node_num].distance << endl;
     cout << "Predhodnik: " << paths[node_num].prev << endl;
     return 0;
 }
