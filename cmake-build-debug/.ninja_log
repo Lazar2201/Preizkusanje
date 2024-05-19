@@ -1,0 +1,12 @@
+# ninja log v5
+11	3136	7320463480515208	CMakeFiles/BellmanFord.dir/BellmanFord.cpp.obj	493cbe97ade3d134
+6	1443	7320435172412841	CMakeFiles/BF.dir/main.cpp.obj	e69b7a249a03d766
+3067	14864	7320463597687380	_deps/googletest-build/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.obj	3aecbb1899ed64e6
+1	3064	7320463479865581	CMakeFiles/BellmanFord.dir/main.cpp.obj	2676505a211c01d7
+1558	2102	7320435178917633	BF.exe	dbb490aa4833b2e2
+14	1558	7320435173502209	CMakeFiles/BF.dir/BellmanFord.cpp.obj	3d0bac5a2dd6a0e7
+56	2272	7320491322922802	CMakeFiles/BellmanFord.dir/BellmanFordTest.cc.obj	2e61088a9cca0d6c
+3136	5539	7320463504655171	_deps/googletest-build/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.obj	a98e36c879f1eb01
+14868	19741	7320463646686455	lib/libgtest.a	1c2fce93259c309f
+19741	19853	7320463647815615	lib/libgtest_main.a	1ede36c9e80f3af1
+4	11770	7378244204803259	build.ninja	8765686e43305ff3
