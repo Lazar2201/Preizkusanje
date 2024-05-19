@@ -71,7 +71,7 @@ int BF::printAttribute(int node_num)
     if (!node_matrix.size())
         return -1;
     else if (!paths.size())
-        return -2;
+        return -1;
     cout << "Cena poti: " << paths[node_num].distance << endl;
     cout << "Predhodnik: " << paths[node_num].prev << endl;
     return 0;
